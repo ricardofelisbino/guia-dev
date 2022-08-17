@@ -8,6 +8,43 @@ Frontend: Html, CSS, Javascript / Typescript / Reactjs
 ## Link Curso Gratuito (em construção)
 https://www.udemy.com/course/draft/4835870/?referralCode=966566527AA0E945568A
 
+### Detalhes do Curso
+**Introdução**
+
+Cotidiano de um Desenvolvedor
+
+Perfis do desenvolvedor
+
+Guia de configuração e utilização do GIT (Github, Bitbucket,...)
+
+Gerenciamento de atividades com o Jira (versão gratuita)
+
+
+**Desenvolvedor Backend**
+
+Primeiros passos Backend Java
+
+Padrões de formação Java e utilização do SonarLint
+
+Micros serviços em Java com Spring
+
+Primeiros passos Backend PHP
+
+Orientação a objetos e PDO no PHP
+
+
+**Desenvolvedor Frontend**
+
+Primeiros passos Frontend Html e CSS
+
+Primeiros passos Frontend Javascript
+
+Primeiros passos Frontend ReactJS
+
+Componentes, State e Props com React
+
+Guia prático de Redux
+
 
 ## Ferramentas/Programas
 
