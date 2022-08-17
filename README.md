@@ -1,9 +1,9 @@
 # Curso Básico para Novos Desenvolvedores Fullstack 
--- Visão geral da área de desenvolvimento de software
--- Backend: Micro serviços / Java / PHP 
--- Frontend: Html, CSS, Javascript / Typescript / Reactjs
+-Visão geral da área de desenvolvimento de software
+-Backend: Micro serviços / Java / PHP 
+-Frontend: Html, CSS, Javascript / Typescript / Reactjs
 
-## Link Curso Gratuito
+## Link Curso Gratuito (em construção)
 https://www.udemy.com/course/draft/4835870/?referralCode=966566527AA0E945568A
 
 
